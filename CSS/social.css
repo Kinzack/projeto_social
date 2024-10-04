@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    width: 100vw;
+}
+
+a{
+    display: block;
+    background-color: red;
+    color: whitesmoke;
+    padding: 20px;
+    margin: 4px;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: none;
+    border-radius: 20px;
+}
+
+a:hover{
+    background-color: rgb(158, 1, 1);
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
